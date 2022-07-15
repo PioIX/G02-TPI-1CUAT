@@ -1,4 +1,6 @@
-# G02-TPI-1CUAT
+# G02-TPI-1CUAT  
+
+**Integrantes:** Tiziana Lanzani, Matías Ojea, Catalina Vega y Bruno Villarroel   
 
 <a href="https://github.com/PioIX/G2-TPI-Nuevo-Repositorio"> **Nuevo Repositorio** </a>
 
