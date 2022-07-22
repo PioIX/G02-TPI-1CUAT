@@ -1,4 +1,4 @@
-# G02-TPI-1CUAT  
+# Trabajo integrador interdisciplinario Grupo N°2
 
 **Integrantes:** Tiziana Lanzani, Matías Ojea, Catalina Vega y Bruno Villarroel   
 
