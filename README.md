@@ -5,7 +5,7 @@
 <a href="https://github.com/PioIX/TPI-1CUAT-Lanzani-Ojea-Vega-y-Villarroel"> **Nuevo Repositorio** </a>
 
 **Introducción:**  
-&nbsp;&nbsp;El siguiente es un juego acerca de los ODS (Objetivos de Desarollo Sustentables), esto hacen referencia a las misiones a lograr que se propusieron en la Agenda 2030. Este consiste en una serie de desafíos que pondrnán a prueba los conocimientos del usuario, para poder superarlo en el menor tiempo posible, ganando todas las insignias de ODS. 
+&nbsp;&nbsp;El siguiente es un juego acerca de los ODS (Objetivos de Desarollo Sustentables), esto hacen referencia a las misiones a lograr que se propusieron en la Agenda 2030. Este consiste en una serie de desafíos que pondrnán a prueba los conocimientos del usuario, para poder superarlo en el menor tiempo posible, ganando todas las insignias de ODS. Se relacionaría con los ODS Nº 1, 3, 6, 7 y 10, y constaría de 5 niveles. Cada uno de estos consta de tres fases; la primera es un multiple choice, la segunda es completar una oración, y la tercera es el juego de cuatro fotos una palabra. Una vez terminadas todas las misiones, el juego concluirá y se mostrará el puntaje sumado (teniendo en cuenta el tiempo de realización) y el ranking de posiciones del mismo.
 
 <a href="https://docs.google.com/document/d/1WPwn94gXcoB4pePyvUhpj8K_zaCSBIkLgGZ6xxnqBSU/edit?usp=sharing"> **Presupuesto:**</a>
 
