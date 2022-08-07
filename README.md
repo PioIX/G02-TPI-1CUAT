@@ -5,9 +5,9 @@
 **Introducción:**  
 &nbsp;&nbsp;El siguiente es un juego acerca de los ODS (Objetivos de Desarollo Sustentables), esto hacen referencia a las misiones a lograr que se propusieron en la Agenda 2030. Este consiste en una serie de desafíos que pondrnán a prueba los conocimientos del usuario, para poder superarlo en el menor tiempo posible, ganando todas las insignias de ODS. Se relacionaría con los ODS Nº 1, 3, 6, 7 y 10, y constaría de 5 niveles. Cada uno de estos consta de tres fases; la primera es un multiple choice, la segunda es completar una oración, y la tercera es el juego de cuatro fotos una palabra. Una vez terminadas todas las misiones, el juego concluirá y se mostrará el puntaje sumado (teniendo en cuenta el tiempo de realización) y el ranking de posiciones del mismo.
 
-<a href="https://replit.com/@Matias-RafaelR3/FORK-TPI-1CUAT"> **Proyecto de Replit** </a>
+<a href="https://replit.com/@CatalinaVEGA6/TPI-1CUAT-Lanzani-Ojea-Vega-y-Villarroel"> **Proyecto de Replit** </a>
 
-<a href="https://fork-tpi-1cuat.matias-rafaelr3.repl.co/"> **Aplicación de Replit** </a>
+<a href="https://tpi-1cuat-lanzani-ojea-vega-y-villarroel.catalinavega6.repl.co/"> **Aplicación de Replit** </a>
 
 <a href="https://github.com/PioIX/TPI-1CUAT-Lanzani-Ojea-Vega-y-Villarroel"> **Nuevo Repositorio** </a>
 
