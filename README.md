@@ -9,7 +9,7 @@
 
 <a href="https://tpi-1cuat-lanzani-ojea-vega-y-villarroel.catalinavega6.repl.co/"> **Aplicación de Replit** </a>
 
-<a href="TizianaLanzani.pythonanywhere.com"> **Aplicación en PythonAnywhere** </a>
+<a href="https://tizianalanzani.pythonanywhere.com/"> **Aplicación en PythonAnywhere** </a>
 
 <a href="https://github.com/PioIX/TPI-1CUAT-Lanzani-Ojea-Vega-y-Villarroel"> **Nuevo Repositorio** </a>
 
