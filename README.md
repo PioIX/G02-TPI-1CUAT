@@ -17,4 +17,7 @@
 
 <a href="https://docs.google.com/document/d/1JQTs6MtJJZuuSQ2ofDcEB_Qll8V_GyX89KGmc9IH5SE/edit?usp=sharing"> **Preguntas:**</a>
 
+<a href="https://drive.google.com/drive/search?q=owner:villarroelbrunomateo%40pioix.edu.ar">**Diagrama de Flujo:**</a>
+
+<a href="https://drive.google.com/drive/search?q=owner:villarroelbrunomateo%40pioix.edu.ar"> **Diagrama de Funciones:**</a>
 
